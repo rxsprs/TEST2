@@ -1,0 +1,25 @@
+body {
+    background-color: red;
+}
+
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCA {
+    background-color: red;
+}
+
+#myCA img {
+        height: 300px;
+    margin-top: 35px;
+}
+
